@@ -107,7 +107,7 @@ TESTS_REQUIRE = [
     # optional dependencies
     "aiohttp",
     "apache-beam>=2.26.0",
-    "elasticsearch",
+    "elasticsearch==7.13.3",
     "aiobotocore==1.2.2",
     "boto3==1.16.43",
     "botocore==1.19.52",
