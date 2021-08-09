@@ -27,6 +27,7 @@ requirements:
     - fsspec
     - huggingface_hub <0.1.0
     - packaging
+    - elasticsearch
   run:
     - python
     - pip
@@ -43,6 +44,7 @@ requirements:
     - fsspec
     - huggingface_hub <0.1.0
     - packaging
+    - elasticsearch
 
 test:
   imports:
